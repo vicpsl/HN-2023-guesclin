@@ -1,0 +1,22 @@
+{
+    "version": "0.1",
+    "name": "New keyboard",
+    "author": "",
+    "characters": [
+        {
+            "row": 0,
+            "column": 1,
+            "character": "ſ"
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "ẟ"
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "ꝺ"
+        }
+    ]
+}
