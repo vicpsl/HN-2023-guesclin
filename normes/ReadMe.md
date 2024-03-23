@@ -68,3 +68,14 @@ On garde les signes verticaux
 ![q_accent](./images/q_accent.jpeg)
 
 La transcription de cette image est "qͥ trouua"
+
+
+## r rotunda : "ꝛ"
+
+On distingue les "ꝛ" (r rotunda) et "r". 
+![r_rotunda](./images/r_rotunda.jpeg)
+
+
+## abréviation « us »  : "ɂ"
+
+![abrev_us](./images/abrev_us.jpeg)
