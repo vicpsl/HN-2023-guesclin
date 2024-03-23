@@ -18,10 +18,12 @@ On utilise deux versions du "d" en fonction de la manière dont il est écrit.
 
 La transcription de cette image est "et ẟit."
 
+<br><br>
+
 ![d_v2](./images/d_v2.png)
 
 
-
+La transcription de cette image est "ꝺe la"
 
 
 <br>
