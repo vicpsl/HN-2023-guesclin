@@ -40,9 +40,9 @@ La transcription de cette image est "ẽferra"
 
 ## macrons : 
 
-Nous faisons le choix de distinguer les tildes et les macrons, contrairement à ce que préconise Ariane Pinche. Nous considérons que le tilde et le macron ont des sens différents, qu'il faut représenter différemment. Ainsi, la transcription de ce caractère est "qͥ"
+Nous faisons le choix de distinguer les tildes et les macrons, contrairement à ce que préconise Ariane Pinche. Nous considérons que le tilde et le macron ont des sens différents, et qu'il faut conserver cette distinction graphique. Ainsi, la transcription de ce caractère est "qͥ".
 
-
+![macron.png](./images/macron.png)
 
 
 ## v en debut de mot : ƃ
