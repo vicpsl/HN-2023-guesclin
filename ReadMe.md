@@ -5,13 +5,19 @@ A la demande de Jean-Victor Boby dans le cadre du séminaire *Fondamentaux infor
 Dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
 ====
 
-Notre projet concerne *Le Livre des faits de messire Bertrand du Guesclin* (ed. 1487) disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f14.item)
+Notre projet concerne *Le Livre des faits de messire Bertrand du Guesclin* (ed. 1487) disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f1.item)
 
 Le travail de transcription s'applique aux pages 14 a 23 du texte :
-- [folio 1](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f5.item)
-- etc
-- etc
-- etc
+- [Page 14](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f18.item)
+- [Page 15](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f19.item)
+- [Page 16](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f20.item)
+- [Page 17](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f21.item)
+- [Page 18](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f22.item)
+- [Page 19](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f23.item)
+- [Page 20](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f24.item)
+- [Page 21](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f25.item)
+- [Page 22](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f26.item)
+- [Page 22](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f27.item)
 
 # Contenu du dépôt
 
@@ -19,15 +25,15 @@ Le travail de transcription s'applique aux pages 14 a 23 du texte :
 
 - `1.Manifest/` :
 - `2.Clavier/` : contient le document .json des caractères utilisés sur eScriptorium.
-- `3.Normes/` :
-- `4.Full_Document_ALTO/` :
-- `5.Full_Document_TXT/` :
-- `6.Pages_Travail_Individuel/` :
-  
+- `3.Normes/` : normes de transcription et caractères spéciaux utilisés pour notre projet.
+- `4.Full_Document_ALTO/` : fichiers .xml de l'ensemble des pages du projet. 
+- `5.Full_Document_TXT/` : fichier .txt regroupant l'ensemble du projet.
+- `6.Pages_Travail_Individuel/` : fichiers .txt et .xml partagés en dossiers pour démontrer le travail individuel des membres du groupe.
+
 # Contributeurs
 
 - Francesco Savatteri
 - Francesco Hemery
 - Nana Maglakelidze
 - Albina Toumarkine
-- Arsène Géry
+- Arsène Géry (p. 22-23)
