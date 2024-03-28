@@ -7,6 +7,10 @@
           <FLocat xlink:href="Le_livre_des_faits_de_..._bpt6k1110614.pdf_page_25.xml"/>
         </file>
       
+        <file ID="export2">
+          <FLocat xlink:href="Le_livre_des_faits_de_..._bpt6k1110614.pdf_page_26.xml"/>
+        </file>
+      
     </fileGrp>
   </fileSec>
   <structMap TYPE="physical">
@@ -15,6 +19,11 @@
       <div TYPE="page">
         
         <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export2"/>
       </div>
       
     </div>
