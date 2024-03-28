@@ -30,13 +30,20 @@ La transcription de cette image est "ꝺe la"
 
 ## e avec tilde : ẽ
 
-On transcrit les tildes aussi. 
+On transcrit les tildes. 
 
 ![e_tilde](./images/e_tilde.png)
 
 La transcription de cette image est "ẽferra"
 
 <br>
+
+## macrons : 
+
+Nous faisons le choix de distinguer les tildes et les macrons, contrairement à ce que préconise Ariane Pinche. Nous considérons que le tilde et le macron ont des sens différents, qu'il faut représenter différemment. Ainsi, la transcription de ce caractère est "qͥ"
+
+
+
 
 ## v en debut de mot : ƃ
 
