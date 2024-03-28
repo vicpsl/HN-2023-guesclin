@@ -4,6 +4,10 @@
     <fileGrp USE="export">
       
         <file ID="export1">
+          <FLocat xlink:href="19_a91d3_default.xml"/>
+        </file>
+      
+        <file ID="export2">
           <FLocat xlink:href="Le_livre_des_faits_de_..._bpt6k1110614-4.pdf_page_5.xml"/>
         </file>
       
@@ -15,6 +19,11 @@
       <div TYPE="page">
         
         <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export2"/>
       </div>
       
     </div>
