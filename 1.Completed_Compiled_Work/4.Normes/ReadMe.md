@@ -81,3 +81,8 @@ On distingue les "ꝛ" (r rotunda) et "r".
 ## abréviation « us »  : "ɂ"
 
 ![abrev_us](./images/abrev_us.jpeg)
+
+## espaces « »  :
+
+Les textes médiévaux utilisent les espaces de façon arbitraire, laissant le lecteur déchiffrer le texte à l’aide de sa connaissance sémantique. Ariane Pinche préconise de séparer les mots sémantiques. Nous suivons ses conseils. 
+
