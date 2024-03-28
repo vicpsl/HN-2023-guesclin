@@ -31,7 +31,7 @@ Le travail de transcription s'applique aux pages 14 a 23 du texte :
 - `4.Full_Document_ALTO/` : fichiers .xml de l'ensemble des pages du projet. 
 - `5.Full_Document_TXT/` : fichier .txt regroupant l'ensemble du projet.
 - `6.Pages_Travail_Individuel/` : fichiers .txt et .xml partagés en dossiers pour démontrer le travail individuel des membres du groupe.
-- `7.Rapport/` : rapport de projet
+- `7.Rapport/` : rapport de projet au format `.pdf`.
 
 # Contributeurs
 
