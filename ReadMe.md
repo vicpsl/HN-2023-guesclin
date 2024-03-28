@@ -1,4 +1,4 @@
-# Projet Ecole Nationale des Chartes (Humanités Numériques - Master 1)
+# Projet Humanités Numériques - Master 1
 A la demande de Jean-Victor Boby dans le cadre du séminaire *Fondamentaux informatique*
 
 # HN-2023-guesclin
