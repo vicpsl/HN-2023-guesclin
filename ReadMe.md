@@ -14,11 +14,16 @@ Le travail de transcription s'applique aux pages 14 a 23 du texte :
 - etc
 
 # Contenu du dépôt
-- `Clavier/` contient le document .json utilisé contenant les caractères utilisés sur eScriptorium.
-- etc
-- etc
-- etc
 
+- `1.Completed_Compiled_Work/` contient l'ensemble des documents du nécessaires à la réalisation du projet.
+
+  `1.Manifest/`:
+  `2.Clavier/`: contient le document .json des caractères utilisés sur eScriptorium.
+  `3.Normes/`:
+  `4.Full_Document_ALTO/`:
+  `5.Full_Document_TXT/`:
+  `6.Pages_Travail_Individuel/`:
+  
 # Contributeurs
 
 - Francesco Savatteri
