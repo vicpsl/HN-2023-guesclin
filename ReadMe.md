@@ -1,5 +1,5 @@
 # Projet Humanités Numériques - HN-2023-guesclin
-A la demande de Jean-Victor Boby dans le cadre du séminaire *Fondamentaux informatique*
+À la demande de Jean-Victor Boby dans le cadre du séminaire *Fondamentaux informatique*
 
 Le Livre des faits de messire Bertrand du Guesclin - eScriptorium
 ====
