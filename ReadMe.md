@@ -8,7 +8,7 @@ Le Livre des faits de messire Bertrand du Guesclin - eScriptorium
 
 Notre projet concerne *Le Livre des faits de messire Bertrand du Guesclin* (ed. 1487) disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f1.item)
 
-Le travail de transcription s'applique aux pages 14 a 23 du texte :
+Le travail de transcription s'applique aux pages 14 à 23 du texte :
 - [Page 14](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f18.item)
 - [Page 15](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f19.item)
 - [Page 16](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f20.item)
@@ -24,7 +24,7 @@ Le travail de transcription s'applique aux pages 14 a 23 du texte :
 
 `1.Completed_Compiled_Work/` contient l'ensemble des documents du nécessaires à la réalisation du projet.
 
-- `1.Manifest/` :
+- `1.Manifest/` : contient le manifest IIF du manuscrit et le notebook filtrant le manifest IIF d'original (folio 14 à 23)
 - `2.Clavier/` : contient le document .json des caractères utilisés sur eScriptorium.
 - `3.Normes/` : normes de transcription et caractères spéciaux utilisés pour notre projet.
 - `4.Full_Document_ALTO/` : fichiers .xml de l'ensemble des pages du projet. 
@@ -34,8 +34,8 @@ Le travail de transcription s'applique aux pages 14 a 23 du texte :
 
 # Contributeurs
 
-- Francesco Savatteri
-- Francesco Hemery
-- Nana Maglakelidze
-- Albina Toumarkine
+- Francesco Savatteri (p. 16 et 21)
+- Francesco Hemery (p. 14-15)
+- Nana Maglakelidze (p. 17-18)
+- Albina Toumarkine (p. 19-20)
 - Arsène Géry (p. 22-23)
