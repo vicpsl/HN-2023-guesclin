@@ -5,7 +5,8 @@ A la demande de Jean-Victor Boby dans le cadre du séminaire *Fondamentaux infor
 Dépôt projet de groupe - eScriptorium - Le Livre des faits de messire Bertrand du Guesclin
 ====
 
-![Image_readme](./images/Image_readme.jpg)
+![Image_readme](.4.Normes/images/Image_readme.jpg)
+1.Completed_Compiled_Work/4.Normes/images
 
 Notre projet concerne *Le Livre des faits de messire Bertrand du Guesclin* (ed. 1487) disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f1.item)
 
