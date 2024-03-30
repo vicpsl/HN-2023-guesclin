@@ -18,7 +18,7 @@ Le travail de transcription s'applique aux pages 14 à 23 du texte :
 - [Page 20](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f24.item)
 - [Page 21](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f25.item)
 - [Page 22](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f26.item)
-- [Page 22](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f27.item)
+- [Page 23](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f27.item)
 
 # Contenu du dépôt
 
