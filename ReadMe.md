@@ -22,8 +22,6 @@ Le travail de transcription s'applique aux pages 14 à 23 du texte :
 
 # Contenu du dépôt
 
-`1.Completed_Compiled_Work/` contient l'ensemble des documents du nécessaires à la réalisation du projet.
-
 - `1.Manifest/` : contient le manifest IIF du manuscrit & le notebook filtrant le manifest IIF (folio 14 à 23).
 - `2.Clavier/` : contient le document .json des caractères utilisés sur eScriptorium.
 - `3.Normes/` : normes de transcription et caractères spéciaux utilisés pour notre projet.
