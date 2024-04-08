@@ -4,7 +4,7 @@
 Le Livre des faits de messire Bertrand du Guesclin - eScriptorium
 ====
 
-![Image_readme](1.Completed_Compiled_Work/3.Normes/images/Image_readme.jpg)
+![Image_readme](3.Normes/images/Image_readme.jpg)
 
 Notre projet concerne *Le Livre des faits de messire Bertrand du Guesclin* (ed. 1487) disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f1.item).
 
